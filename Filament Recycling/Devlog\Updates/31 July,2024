@@ -1,5 +1,0 @@
-So far, I have some of the 3D models for the winding mechanism in a rough beta phase. The files should be viewable/downloadable in the model files directory.
-
-The motor-spool axel adapter's opening for the motor's axel is too tight as is, and I will update that before the next version.
-The spool itself is not large enough (I shrunk it down to save on printing time) and realized that the filament would warp if I tried to wrap it around that spool.
-
